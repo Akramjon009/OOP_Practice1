@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheretanceAndAbstraction", "InheretanceAndAbstraction\InheretanceAndAbstraction.csproj", "{29201267-8AB2-487A-BF89-FDF4816181A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheretanceAndAbstraction", "InheretanceAndAbstraction\InheretanceAndAbstraction.csproj", "{29201267-8AB2-487A-BF89-FDF4816181A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{4DA1C5C6-A5D5-4FA3-B001-66CAD5B5B4C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library", "Library\Library.csproj", "{4DA1C5C6-A5D5-4FA3-B001-66CAD5B5B4C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leet code", "leet code\leet code.csproj", "{312551EC-4731-487D-9228-69C1623403FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4DA1C5C6-A5D5-4FA3-B001-66CAD5B5B4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DA1C5C6-A5D5-4FA3-B001-66CAD5B5B4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DA1C5C6-A5D5-4FA3-B001-66CAD5B5B4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{312551EC-4731-487D-9228-69C1623403FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312551EC-4731-487D-9228-69C1623403FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312551EC-4731-487D-9228-69C1623403FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312551EC-4731-487D-9228-69C1623403FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
