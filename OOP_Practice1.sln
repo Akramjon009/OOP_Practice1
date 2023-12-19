@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "leet code 73", "leet code\l
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "leet code 1909", "leet code 1909\leet code 1909.csproj", "{421F4C5B-940D-483E-96C9-9127A703C869}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X_O_Game", "X_O_Game\X_O_Game.csproj", "{37BB0201-6E7F-4D57-8FA0-CB06B42D4E2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "X_O_Game", "X_O_Game\X_O_Game.csproj", "{37BB0201-6E7F-4D57-8FA0-CB06B42D4E2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "CalculatorNew\Calculator.csproj", "{4DE9C677-38BE-4066-B0FB-BCB6F0ECBE40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{37BB0201-6E7F-4D57-8FA0-CB06B42D4E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37BB0201-6E7F-4D57-8FA0-CB06B42D4E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37BB0201-6E7F-4D57-8FA0-CB06B42D4E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE9C677-38BE-4066-B0FB-BCB6F0ECBE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE9C677-38BE-4066-B0FB-BCB6F0ECBE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE9C677-38BE-4066-B0FB-BCB6F0ECBE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE9C677-38BE-4066-B0FB-BCB6F0ECBE40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
