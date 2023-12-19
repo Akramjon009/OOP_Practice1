@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheretanceAndAbstraction",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library", "Library\Library.csproj", "{4DA1C5C6-A5D5-4FA3-B001-66CAD5B5B4C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leet code 73", "leet code\leet code 73.csproj", "{312551EC-4731-487D-9228-69C1623403FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "leet code 73", "leet code\leet code 73.csproj", "{312551EC-4731-487D-9228-69C1623403FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leet code 1909", "leet code 1909\leet code 1909.csproj", "{421F4C5B-940D-483E-96C9-9127A703C869}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "leet code 1909", "leet code 1909\leet code 1909.csproj", "{421F4C5B-940D-483E-96C9-9127A703C869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X_O_Game", "X_O_Game\X_O_Game.csproj", "{37BB0201-6E7F-4D57-8FA0-CB06B42D4E2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{421F4C5B-940D-483E-96C9-9127A703C869}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{421F4C5B-940D-483E-96C9-9127A703C869}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{421F4C5B-940D-483E-96C9-9127A703C869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37BB0201-6E7F-4D57-8FA0-CB06B42D4E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37BB0201-6E7F-4D57-8FA0-CB06B42D4E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37BB0201-6E7F-4D57-8FA0-CB06B42D4E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37BB0201-6E7F-4D57-8FA0-CB06B42D4E2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
