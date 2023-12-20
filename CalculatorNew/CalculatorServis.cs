@@ -1,19 +1,21 @@
-﻿namespace Calculator
+﻿using System.Numerics;
+
+namespace Calculator
 {
-    public partial class CalculatorService
+    public partial class CalculatorService<MYint>
     {
-        public CalculatorService(int a, int b)
+        public MYint A { get; set; }  
+        public MYint B { get; set; }  
+        public CalculatorService(MYint a, MYint b)
         {
-            int A = a;
-            int B = b;
+            MYint A = a;
+            MYint B = b;
             Add(A, B);
             Divide(A, B);
             Divorse(A, B);
             Multiply(A, B); 
 
         }
-        public int A { get; set; }  
-        public int B { get; set; }  
 
     }
 }

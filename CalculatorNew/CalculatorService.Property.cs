@@ -1,23 +1,26 @@
-﻿namespace Calculator
+﻿using System.Numerics;
+
+namespace Calculator
 {
-    public partial class CalculatorService 
+    public partial class CalculatorService<MYint>:ICalculator<MYint>
+    where MYint : INumber<MYint>
     {
-        public void Add(int a, int b)
+        public void Add(MYint a, MYint b)
         {
             Console.WriteLine(a + b);
         }
 
-        public void Divide(int a, int b)
+        public void Divide(MYint a, MYint b)
         {
             Console.WriteLine(a / b);
         }
 
-        public void Divorse(int a, int b)
+        public void Divorse(MYint a, MYint b)
         {
             Console.WriteLine(a - b);
         }
 
-        public void Multiply(int a, int b)
+        public void Multiply(MYint a, MYint b)
         {
             Console.WriteLine(a * b);
         }

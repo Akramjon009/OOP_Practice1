@@ -13,7 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "leet code 1909", "leet code
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "X_O_Game", "X_O_Game\X_O_Game.csproj", "{37BB0201-6E7F-4D57-8FA0-CB06B42D4E2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "CalculatorNew\Calculator.csproj", "{4DE9C677-38BE-4066-B0FB-BCB6F0ECBE40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "CalculatorNew\Calculator.csproj", "{4DE9C677-38BE-4066-B0FB-BCB6F0ECBE40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital", "Hospital\Hospital.csproj", "{F433DD19-3340-4D44-AB88-09994D3FA33B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "uyga vazifa 19.12.23", "uyga vazifa 19.12.23", "{6D2F036D-C5AE-42DC-9F8A-431A0C326BB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,9 +49,17 @@ Global
 		{4DE9C677-38BE-4066-B0FB-BCB6F0ECBE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DE9C677-38BE-4066-B0FB-BCB6F0ECBE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DE9C677-38BE-4066-B0FB-BCB6F0ECBE40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F433DD19-3340-4D44-AB88-09994D3FA33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F433DD19-3340-4D44-AB88-09994D3FA33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F433DD19-3340-4D44-AB88-09994D3FA33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F433DD19-3340-4D44-AB88-09994D3FA33B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4DE9C677-38BE-4066-B0FB-BCB6F0ECBE40} = {6D2F036D-C5AE-42DC-9F8A-431A0C326BB6}
+		{F433DD19-3340-4D44-AB88-09994D3FA33B} = {6D2F036D-C5AE-42DC-9F8A-431A0C326BB6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4440FDFE-542D-46AA-850A-BFCDFB79AF6B}
