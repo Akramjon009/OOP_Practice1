@@ -21,13 +21,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "uyga vazifa 19.12.23", "uyg
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "uyga vazifa 21.12.23", "uyga vazifa 21.12.23", "{6EF450B8-D624-4620-8867-FCFFBC20A7F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode 232", "Leetcode 232\Leetcode 232.csproj", "{C291B0BD-5243-4FA3-A8BE-7D529415060C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode 232", "Leetcode 232\Leetcode 232.csproj", "{C291B0BD-5243-4FA3-A8BE-7D529415060C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode 225", "Leetcod 225\Leetcode 225.csproj", "{5CE35DDB-9E26-4C25-BAAD-7980CC3DFBF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode 225", "Leetcod 225\Leetcode 225.csproj", "{5CE35DDB-9E26-4C25-BAAD-7980CC3DFBF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leet code 1381", "Leet code 1381\Leet code 1381.csproj", "{E6ABDEC3-BAE3-4B52-8C39-1D43EF4389C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leet code 1381", "Leet code 1381\Leet code 1381.csproj", "{E6ABDEC3-BAE3-4B52-8C39-1D43EF4389C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leer code 707", "ConsoleApp2\Leer code 707.csproj", "{E5B86ECC-56A3-455E-BAC3-A3948399C4FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leet code 707", "ConsoleApp2\Leet code 707.csproj", "{E5B86ECC-56A3-455E-BAC3-A3948399C4FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
