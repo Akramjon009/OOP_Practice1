@@ -58,17 +58,18 @@ public class Program
 
         Student[] unsortedStudents = new Student[20];
 
-        for (int i = 0; i < studentFirstNames.Length; i++)
+        for (int i = 1; i <= studentFirstNames.Length; i++)
         {
             var student = new Student
             {
-                Id = studentFirstNames.Length - i,
-                FirstName = studentFirstNames[i],
-                LastName = studentLastNames[studentFirstNames.Length - i - 1]
+                Id = i,
+                FirstName = studentFirstNames[i - 1],
+                LastName = studentLastNames[studentFirstNames.Length - i]
             };
 
-            unsortedStudents[i] = student;
+            unsortedStudents[i-1] = student;
         }
+
 
         // TODO Consolega unsortedStudents elementlarini chiqaring (use while loop)
 
