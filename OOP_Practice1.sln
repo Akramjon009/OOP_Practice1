@@ -33,7 +33,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vasifa", "vasifa", "{1EE619
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Main", "Main\Main.csproj", "{160764F2-E8C9-4BFD-9382-A002832FF3F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson13", "Lesson13\Lesson13.csproj", "{D83A3CD3-9485-45EF-9FC8-210C4F971634}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson13", "Lesson13\Lesson13.csproj", "{D83A3CD3-9485-45EF-9FC8-210C4F971634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessondelegat", "Lesson13.new\Lessondelegat.csproj", "{8AEFDD67-6469-43B2-8034-C5B512B44739}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{D83A3CD3-9485-45EF-9FC8-210C4F971634}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D83A3CD3-9485-45EF-9FC8-210C4F971634}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D83A3CD3-9485-45EF-9FC8-210C4F971634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AEFDD67-6469-43B2-8034-C5B512B44739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEFDD67-6469-43B2-8034-C5B512B44739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEFDD67-6469-43B2-8034-C5B512B44739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEFDD67-6469-43B2-8034-C5B512B44739}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
